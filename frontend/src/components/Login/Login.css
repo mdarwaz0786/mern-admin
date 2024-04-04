@@ -1,0 +1,7 @@
+.custom-container {
+  height: 84vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
